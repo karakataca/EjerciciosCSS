@@ -1,0 +1,72 @@
+p.negrita {color: black; 
+    font-size:20px;
+    font-family:Courier;
+    font-weight:bold;
+    line-height:30px;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+   }
+   p.cursiva {color: black; 
+    font-size:20px;
+    font-family:Courier;
+    font-style: italic;
+    line-height:30px;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+   }
+   p.subrayado {color: black; 
+    font-size:20px;
+    font-family:Courier;
+    line-height:30px;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+    text-decoration: underline;
+    
+   }
+   p.pequeña {color: black; 
+    font-size:8px;
+    font-family:Courier;
+    line-height:30px;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+   }
+   p.grande {color: black; 
+    font-size:80px;
+    font-family:Courier;
+    line-height:30px;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+   }
+   p.azul {color: blue; 
+    font-size:20px;
+    font-family:Courier;
+    line-height:30px;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+   }
+   p.fondorojo {color: white; 
+    font-size:20px;
+    font-family:Courier;
+    font-weight:bold;
+    font-style:italic;
+    line-height:30px;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+    background-color: red;
+   }
+
+ 
